@@ -1,0 +1,66 @@
+/*body {
+    background-color: rgba(65, 70, 70, 0.87);
+}*/
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+body{
+    font-family: 'Nerko One', cursive;
+}
+.center{
+    text-align: center;
+}
+.color-test{
+    background-color: red;
+}
+.color-test-rgb{
+    background-color: rgb(67, 180, 180);
+}
+.color-test-rgba{
+    background-color: rgba(255, 0, blue, alpha);
+}
+.color-test-hex{
+    background-color: #ecbaa0;
+}
+.background-test{
+    background-color: rgba(rgb(179, 95, 95), green, blue, alpha);
+}
+.background-test-img{
+    background-image: url("bddc8f786328268637ecb4427d080f4d.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.background-test-img-short{
+    background: pink url(bddc8f786328268637ecb4427d080f4d.jpg) no-repeat center top;
+    
+}
+.margin-test{
+    margin-top: 80px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.padding-test{
+    border:1px solid brown
+    padding top:50px
+    padding right :50px
+}
+
+/*h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: black;
+    text-align:left;
+}
+#fy{
+    color: red;
+}
+.fr{
+    color: yellow;
+}
+.fb{
+    font-size: 50px;
+}
+p.center{
+    text-align: center;
+}*/
